@@ -1,0 +1,1 @@
+import{_ as e}from"./index.719c5909.js";function n(n){var t=e(n);if(!t)return!1;var i=window.getComputedStyle(t),o="none"===i.display,r=null===t.offsetParent&&"fixed"!==i.position;return o||r}export{n as i};

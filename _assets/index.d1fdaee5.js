@@ -1,0 +1,1 @@
+const e={zero:()=>{},delay:(e,t=0)=>{let n;const o=setTimeout((function(){clearTimeout(o),n=e()}),t);return{cancel:function(){clearTimeout(o)},receive:function(e){e(n)}}},debounce:(e,t=0)=>{let n;return function(...o){clearTimeout(n),n=setTimeout((()=>e.apply(this,o)),t)}}};export{e as u};

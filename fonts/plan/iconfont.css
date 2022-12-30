@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "lc"; /* Project id 2601266 */
+  src: url('iconfont.woff2?t=1624602696530') format('woff2'),
+       url('iconfont.woff?t=1624602696530') format('woff'),
+       url('iconfont.ttf?t=1624602696530') format('truetype');
+}
+
+.lc {
+  font-family: "lc" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lc-plan-male:before {
+  content: "\e67f";
+}
+
+.lc-plan-female:before {
+  content: "\e680";
+}
+
+.lc-plan-lvv5:before {
+  content: "\e600";
+}
+
+.lc-plan-lvv3:before {
+  content: "\e601";
+}
+
+.lc-plan-lvv2:before {
+  content: "\e602";
+}
+
+.lc-plan-lvv4:before {
+  content: "\e603";
+}
+
+.lc-plan-lvv6:before {
+  content: "\e61a";
+}
+
+.lc-plan-lvv1:before {
+  content: "\e61f";
+}
+

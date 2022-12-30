@@ -1,0 +1,65 @@
+{
+  "id": "2601266",
+  "name": "plan",
+  "font_family": "lc",
+  "css_prefix_text": "lc-plan-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "130542",
+      "name": "material-gender-male",
+      "font_class": "male",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "130543",
+      "name": "material-gender-female",
+      "font_class": "female",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "5856875",
+      "name": "lv5",
+      "font_class": "lvv5",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5856877",
+      "name": "lv3",
+      "font_class": "lvv3",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5856878",
+      "name": "lv2",
+      "font_class": "lvv2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5856879",
+      "name": "lv4",
+      "font_class": "lvv4",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12254302",
+      "name": "lv6",
+      "font_class": "lvv6",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "12254313",
+      "name": "lv1",
+      "font_class": "lvv1",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    }
+  ]
+}
