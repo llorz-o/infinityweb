@@ -1,1 +1,1 @@
-RewriteRule ^/(.*)$ http://test-server/$1 [P]
+RewriteRule ^/(.*)$ http://test-server/ [P]
